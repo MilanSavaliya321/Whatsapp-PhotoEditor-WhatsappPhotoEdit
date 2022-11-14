@@ -1,5 +1,10 @@
-# Whatsapp Photo Editer
+# Whatsapp Photo Editer (Whatsapp Like PhotoEditor)
 Add text, draw with colors
+
+A library module that tries to mimic WhatsApp photo editor.
+It is a library module that tries to mimic the WhatsApp photo editor. There are many things on which work needs to be done.
+
+This is a WhatsApp image Editor replica. with this, you can integrate an image editor just like WhatsApp
 
 Photos Videos
 
